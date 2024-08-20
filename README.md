@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate just PM me here 
 - 📫 How to reach me? Just PM me here <-----
 - 😄 Pronouns: Human? Or Im on the wrong planet!
-- ⚡ Fun fact: (Linola[Glitch] 
+- ⚡ Fun fact: <-- ('LinolaGlitch'] {
+    -Redfilter);
+    - }; -->  
 
 <!---
 LinolaGlitch/LinolaGlitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
