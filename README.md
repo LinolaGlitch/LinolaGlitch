@@ -6,7 +6,7 @@
 - 😄 Pronouns: Human? Or Im on the wrong planet!
 - ⚡ Fun fact: <-- ('LinolaGlitch'] {
     -Redfilter);
-    - }; -->  ...([¨^~^¨¨])
+    - }; -->  ...({¨^~^¨})
 
 <!---
 LinolaGlitch/LinolaGlitch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
